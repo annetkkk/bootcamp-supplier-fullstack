@@ -1,5 +1,3 @@
-# bootcamp-supplier-fullstack
-
 # Supplier Fullstack Bootcamp Project
 
 Учебный fullstack-проект автоматизированной системы поставщиков, выполненный в рамках BootcampLabs.
