@@ -92,6 +92,24 @@ bootcamp-supplier-fullstack/
 - тестировать backend API через Swagger;
 - работать с данными через frontend-интерфейс.
 
+## Screenshots
+
+### Swagger API
+
+![Swagger controllers](swagger-controllers.png)
+
+![GET darkstores](swagger-darkstores-get.png)
+
+### Frontend
+
+![Deliveries page](frontend-deliveries.png)
+
+![Goods page](frontend-goods.png)
+
+![Darkstores page](frontend-darkstores.png)
+
+![Darkstore modal](frontend-darkstore-modal.png)
+
 ## Как запустить backend
 Перейти в папку backend-проекта:
 ```bash
